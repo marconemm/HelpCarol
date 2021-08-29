@@ -3,7 +3,7 @@ package br.com.helpcarol.utils;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Salvavel {
+public class Save {
 	
 	private static final String PKG_DIR = "./bin/br/com/helpcarol/";
 
